@@ -20,9 +20,9 @@ node gen-lic-710.js
 
 ### 2.密钥文件复制到 `userData` 目录
 
-```text
-C:\Users\用户名\AppData\Roaming\StarUML\activation.key
-```
+- **windows**: `C:\Users\用户名\AppData\Roaming\StarUML\activation.key`
+- **linux**: `~/.config/StarUML/activation.key`
+- **lib.so**: 检查并删除同目录下lib.so试用版记录文件
 
 ### 3.修改验证函数
 
